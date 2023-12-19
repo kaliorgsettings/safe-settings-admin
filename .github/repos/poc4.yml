@@ -1,0 +1,8 @@
+repository:
+  name: poc4
+  #force_create: true
+  #auto_init: true
+  description: Description changes of poc4 and changed to public message
+  topics:
+  - Github
+  - Settings
