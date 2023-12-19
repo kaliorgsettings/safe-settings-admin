@@ -1,0 +1,8 @@
+repository:
+  name: poc1
+  #force_create: true
+  #auto_init: true
+  description: Description of poc1 and changed to public message
+  topics:
+  - Github
+  - Settings
